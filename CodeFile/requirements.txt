@@ -4,5 +4,4 @@ matplotlib
 seaborn
 tensorflow
 keras
-paho.mqtt
 cryptography

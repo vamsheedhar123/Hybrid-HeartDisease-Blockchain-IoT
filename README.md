@@ -11,7 +11,7 @@ The framework combines an **Improved Capsule Squeeze-Excited (SE) Scalable Resid
 * **Preprocessing:** Dynamic Gaussian Piecewise Normalization (DGPN) for multi-source clinical data handling.
 * **Predictive Model:** ISRT-LSTM combining capsule-based feature representations with residual learning.
 * **Security & Access Control:** QHNABE mechanism for secure data storage and management over Blockchain.
-* **Optimization:** Triangular exploration and Newton-Raphson optimization for hyperparameter tuning.
+* **Optimization:** Triangular optimization.
 
 ---
 
